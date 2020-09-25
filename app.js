@@ -10,3 +10,4 @@ function name(){
 // git log shows you the info and the history of the commits and where the head is located
 // git branch <name of the branch> to make a new branch
 //  git checkout <name of the branch> to go to the named branch
+// git commit -am <filename> it is used to add and commit at the same time
