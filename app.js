@@ -11,3 +11,5 @@ function name(){
 // git branch <name of the branch> to make a new branch
 //  git checkout <name of the branch> to go to the named branch
 // git commit -am <filename> it is used to add and commit at the same time
+// now to merge a branch to another use git branch merge <Branch_Name>
+// working with from local repo to remote repo us git 
