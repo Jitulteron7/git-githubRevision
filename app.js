@@ -7,3 +7,5 @@ function name(){
 // we name the first commit as initial commit (by convention)
 // watch travesy and apni kaksha git and git hub videos
 // to remove file from stagind area use | git rm --cached <filename>
+// git log shows you the info and the history of the commits and where the head is located
+// git branch 
