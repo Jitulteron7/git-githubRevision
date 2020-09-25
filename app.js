@@ -17,3 +17,4 @@ function name(){
 
 // now after pushing the master to remote branch 
 // we will push the rest branch eg my dev branch
+// git push orgin(name of according to the intial one ) <branch name>
